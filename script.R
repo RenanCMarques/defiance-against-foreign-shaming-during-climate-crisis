@@ -6,7 +6,7 @@ rm(list = ls())
 
 # Renan's Directory
 
-setwd("C:/Users/renan/Google Drive/FGV RI/Defiance Against Foreign Shaming During Climate Crises")
+setwd("")
 
 #------------------------------------------------------------------------------#
 ### Loading and installing necessary packages ##################################
